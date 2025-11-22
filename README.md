@@ -11,6 +11,30 @@
 - 🤝 I’m looking to collaborate on **Cloud & DevOps Projects**
 - 📫 How to reach me: **[rendlapavithra@gmail.com](mailto:rendlapavithra@gmail.com)**
 
+---
+
+<h3 align="center">Connect with me</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pavithra-reddy-b90429328/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:rendlapavithra@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="28" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">Most Used Languages</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pavithrarendla&show_icons=true&locale=en&layout=compact" alt="pavithrarendla" />
+</p>
+
+---
+
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavithrarendla&" alt="pavithrarendla" />
 </p>
@@ -85,24 +109,6 @@
 </div>
 
 ---
-
-<h3 align="center">Connect with me</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/pavithra-reddy-b90429328/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:rendlapavithra@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="28" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pavithrarendla&show_icons=true&locale=en&layout=compact" alt="pavithrarendla" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pavithrarendla&show_icons=true&locale=en" alt="pavithrarendla" />
