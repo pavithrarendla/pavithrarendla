@@ -4,9 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavithrarendla&label=Profile%20views&color=0e75b6&style=flat" alt="pavithrarendla" /> </p>
 
 
-* I’m currently working on *Fullstack Projects*
-
-* I’m currently learning *DSA*
+* I’m currently working on *Fullstack Projects
 
 * I’m looking to collaborate on *Cloud DevOps Projects*
 
@@ -51,6 +49,11 @@
 <a href="https://www.linkedin.com/in/pavithra-reddy-b90429328/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pavithra reddy" height="30" width="40" />
 </a>
+
+<a href="mailto:rendlapavithra@gmail.com" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="pavithra reddy email" height="30" width="40" />
+</a>
+
 
 
 ---
